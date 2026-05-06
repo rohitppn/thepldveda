@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" role="img" aria-label="The Old Veda">
+  <defs>
+    <linearGradient id="leafLight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#A8D85C"/>
+      <stop offset="100%" stop-color="#6BAE2E"/>
+    </linearGradient>
+    <linearGradient id="leafMid" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#5FA52B"/>
+      <stop offset="100%" stop-color="#2F6A1C"/>
+    </linearGradient>
+    <linearGradient id="handGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3F8A3A"/>
+      <stop offset="100%" stop-color="#1F4A1C"/>
+    </linearGradient>
+    <linearGradient id="goldRule" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"  stop-color="#8B6A2A" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#C9A24C" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#8B6A2A" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Reusable tulsi leaf: pointed oval with serrated edge and central vein -->
+    <symbol id="tulsi" viewBox="-50 -100 100 110" overflow="visible">
+      <!-- Leaf body with serrated edge using small bumps -->
+      <path d="M 0 -95
+               C  8 -90, 16 -82, 22 -70
+               C  28 -58, 32 -44, 30 -28
+               C  28 -14, 20  -4,  0   2
+               C -20 -4, -28 -14, -30 -28
+               C -32 -44, -28 -58, -22 -70
+               C -16 -82, -8 -90,  0 -95 Z"
+            fill="url(#leafLight)"/>
+      <!-- Serration ticks along edges -->
+      <g stroke="#3F7D3A" stroke-width="0.6" fill="none" opacity="0.7">
+        <path d="M -28 -28 l -4 -2 M -30 -40 l -4 -1 M -28 -52 l -4 -2 M -24 -64 l -4 -3 M -18 -76 l -3 -3"/>
+        <path d="M  28 -28 l  4 -2 M  30 -40 l  4 -1 M  28 -52 l  4 -2 M  24 -64 l  4 -3 M  18 -76 l  3 -3"/>
+      </g>
+      <!-- Central vein -->
+      <path d="M 0 -94 L 0 0" stroke="#2F6A1C" stroke-width="1.4" fill="none"/>
+      <!-- Side veins -->
+      <g stroke="#2F6A1C" stroke-width="0.8" fill="none" opacity="0.75">
+        <path d="M 0 -75 Q 10 -68 20 -62"/>
+        <path d="M 0 -75 Q -10 -68 -20 -62"/>
+        <path d="M 0 -55 Q 12 -48 24 -40"/>
+        <path d="M 0 -55 Q -12 -48 -24 -40"/>
+        <path d="M 0 -32 Q 11 -24 22 -18"/>
+        <path d="M 0 -32 Q -11 -24 -22 -18"/>
+      </g>
+    </symbol>
+  </defs>
+
+  <!-- Transparent background (no rect) -->
+
+  <!-- Emblem: circle with tulsi leaves cradled by hands -->
+  <g transform="translate(300,180)">
+    <!-- Outer ring -->
+    <circle r="150" fill="none" stroke="#3F8A3A" stroke-width="3"/>
+
+    <!-- Center tulsi leaf (largest, light green) -->
+    <g transform="translate(0,20) scale(1.05)">
+      <use href="#tulsi"/>
+    </g>
+
+    <!-- Left tulsi leaf (darker, tilted) -->
+    <g transform="translate(-32,30) rotate(-42) scale(0.78)">
+      <use href="#tulsi" style="--c:1"/>
+      <!-- Recolor via overlay -->
+      <path d="M 0 -95
+               C  8 -90, 16 -82, 22 -70
+               C  28 -58, 32 -44, 30 -28
+               C  28 -14, 20  -4,  0   2
+               C -20 -4, -28 -14, -30 -28
+               C -32 -44, -28 -58, -22 -70
+               C -16 -82, -8 -90,  0 -95 Z"
+            fill="url(#leafMid)"/>
+      <path d="M 0 -94 L 0 0" stroke="#1F4A1C" stroke-width="1.4" fill="none"/>
+      <g stroke="#1F4A1C" stroke-width="0.8" fill="none" opacity="0.8">
+        <path d="M 0 -75 Q 10 -68 20 -62"/>
+        <path d="M 0 -75 Q -10 -68 -20 -62"/>
+        <path d="M 0 -55 Q 12 -48 24 -40"/>
+        <path d="M 0 -55 Q -12 -48 -24 -40"/>
+        <path d="M 0 -32 Q 11 -24 22 -18"/>
+        <path d="M 0 -32 Q -11 -24 -22 -18"/>
+      </g>
+    </g>
+
+    <!-- Right tulsi leaf (darker, tilted) -->
+    <g transform="translate(32,30) rotate(42) scale(0.78)">
+      <path d="M 0 -95
+               C  8 -90, 16 -82, 22 -70
+               C  28 -58, 32 -44, 30 -28
+               C  28 -14, 20  -4,  0   2
+               C -20 -4, -28 -14, -30 -28
+               C -32 -44, -28 -58, -22 -70
+               C -16 -82, -8 -90,  0 -95 Z"
+            fill="url(#leafMid)"/>
+      <path d="M 0 -94 L 0 0" stroke="#1F4A1C" stroke-width="1.4" fill="none"/>
+      <g stroke="#1F4A1C" stroke-width="0.8" fill="none" opacity="0.8">
+        <path d="M 0 -75 Q 10 -68 20 -62"/>
+        <path d="M 0 -75 Q -10 -68 -20 -62"/>
+        <path d="M 0 -55 Q 12 -48 24 -40"/>
+        <path d="M 0 -55 Q -12 -48 -24 -40"/>
+        <path d="M 0 -32 Q 11 -24 22 -18"/>
+        <path d="M 0 -32 Q -11 -24 -22 -18"/>
+      </g>
+    </g>
+
+    <!-- Stem joining leaves into hands -->
+    <path d="M 0 30 Q 0 50 0 70" stroke="#2F6A1C" stroke-width="2.5" fill="none"/>
+
+    <!-- Cradling hands (two cupped palms) -->
+    <!-- Left hand -->
+    <path d="M -85 60
+             C -94 44, -84 26, -64 28
+             C -56 14, -38 14, -32 30
+             C -20 26,  -6 36,  -8 52
+             C  -4 60,  -8 76, -22 82
+             C -42 96, -74 92, -85 74 Z"
+          fill="url(#handGrad)"/>
+    <path d="M -58 30 Q -54 44 -52 60" stroke="#000" stroke-width="1.2" fill="none" opacity="0.35"/>
+    <path d="M -38 24 Q -36 40 -34 60" stroke="#000" stroke-width="1.2" fill="none" opacity="0.35"/>
+    <path d="M -20 32 Q -20 48 -20 64" stroke="#000" stroke-width="1.2" fill="none" opacity="0.35"/>
+
+    <!-- Right hand -->
+    <path d="M 85 60
+             C 94 44, 84 26, 64 28
+             C 56 14, 38 14, 32 30
+             C 20 26,  6 36,  8 52
+             C  4 60,  8 76, 22 82
+             C 42 96, 74 92, 85 74 Z"
+          fill="url(#handGrad)"/>
+    <path d="M 58 30 Q 54 44 52 60" stroke="#000" stroke-width="1.2" fill="none" opacity="0.35"/>
+    <path d="M 38 24 Q 36 40 34 60" stroke="#000" stroke-width="1.2" fill="none" opacity="0.35"/>
+    <path d="M 20 32 Q 20 48 20 64" stroke="#000" stroke-width="1.2" fill="none" opacity="0.35"/>
+  </g>
+
+  <!-- Top divider rule -->
+  <line x1="120" y1="380" x2="480" y2="380" stroke="url(#goldRule)" stroke-width="1.2"/>
+
+  <!-- Wordmark: The Old Veda -->
+  <text x="300" y="445"
+        text-anchor="middle"
+        font-family="Georgia, 'Playfair Display', 'Times New Roman', serif"
+        font-size="68"
+        font-style="italic"
+        font-weight="500"
+        fill="#5FA52B"
+        letter-spacing="1">
+    The Old Veda
+  </text>
+
+  <!-- Bottom divider rule -->
+  <line x1="180" y1="475" x2="420" y2="475" stroke="url(#goldRule)" stroke-width="1"/>
+</svg>
