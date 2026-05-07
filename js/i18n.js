@@ -46,7 +46,7 @@ const TRANSLATIONS = {
     'cta.whatsapp': 'WhatsApp',
 
     'footer.phoneLabel': 'Speak with the Doctor',
-    'footer.brand.tag': 'Ayurvedic Healing · Dr. Pravesh Singh',
+    'footer.brand.tag': 'Ayurvedic Healing · Dr. Pravesh Rawat',
     'footer.col.visit': 'Visit the Clinic',
     'footer.col.treatments': 'Treatments',
     'footer.col.clinic': 'Clinic',
@@ -57,7 +57,7 @@ const TRANSLATIONS = {
 
     'hero.eyebrow': 'Authentic Ayurveda · Since the Vedas',
     'hero.headline': 'Ancient <em>wisdom</em> for skin that <em>heals itself.</em>',
-    'hero.lede': 'Vedic remedies, prepared individually — not from a shelf. Dr. Pravesh Singh personally reviews every case of vitiligo and confidential sexual health concerns to formulate medicine made for you alone.',
+    'hero.lede': 'Vedic remedies, prepared individually — not from a shelf. Dr. Pravesh Rawat personally reviews every case of vitiligo and confidential sexual health concerns to formulate medicine made for you alone.',
     'hero.btnCall': 'Call Dr. Pravesh now',
     'hero.btnWhatsapp': 'WhatsApp',
     'hero.trustYears': 'Years of practice',
@@ -85,7 +85,7 @@ const TRANSLATIONS = {
     'cta.whatsapp': 'व्हाट्सऐप',
 
     'footer.phoneLabel': 'डॉक्टर से बात करें',
-    'footer.brand.tag': 'आयुर्वेदिक चिकित्सा · डॉ. प्रवेश सिंह',
+    'footer.brand.tag': 'आयुर्वेदिक चिकित्सा · डॉ. प्रवेश रावत',
     'footer.col.visit': 'क्लिनिक पर आइए',
     'footer.col.treatments': 'उपचार',
     'footer.col.clinic': 'क्लिनिक',
@@ -96,7 +96,7 @@ const TRANSLATIONS = {
 
     'hero.eyebrow': 'प्रामाणिक आयुर्वेद · वेदों के समय से',
     'hero.headline': 'प्राचीन <em>ज्ञान</em>, ऐसी त्वचा के लिए जो <em>स्वयं ठीक हो।</em>',
-    'hero.lede': 'वैदिक दवाइयाँ — हर मरीज़ के लिए अलग से तैयार, बाज़ार से नहीं। डॉ. प्रवेश सिंह हर सफ़ेद दाग और यौन स्वास्थ्य के मामले को व्यक्तिगत रूप से देखते हैं और सिर्फ़ आपके लिए दवा बनाते हैं।',
+    'hero.lede': 'वैदिक दवाइयाँ — हर मरीज़ के लिए अलग से तैयार, बाज़ार से नहीं। डॉ. प्रवेश रावत हर सफ़ेद दाग और यौन स्वास्थ्य के मामले को व्यक्तिगत रूप से देखते हैं और सिर्फ़ आपके लिए दवा बनाते हैं।',
     'hero.btnCall': 'डॉ. प्रवेश को अभी कॉल करें',
     'hero.btnWhatsapp': 'व्हाट्सऐप',
     'hero.trustYears': 'वर्षों का अनुभव',
@@ -124,7 +124,7 @@ const TRANSLATIONS = {
     'cta.whatsapp': 'হোয়াটসঅ্যাপ',
 
     'footer.phoneLabel': 'ডাক্তারের সাথে কথা বলুন',
-    'footer.brand.tag': 'আয়ুর্বেদিক চিকিৎসা · ডা. প্রবেশ সিং',
+    'footer.brand.tag': 'আয়ুর্বেদিক চিকিৎসা · ডা. প্রবেশ রাওয়াত',
     'footer.col.visit': 'ক্লিনিকে আসুন',
     'footer.col.treatments': 'চিকিৎসা',
     'footer.col.clinic': 'ক্লিনিক',
@@ -135,7 +135,7 @@ const TRANSLATIONS = {
 
     'hero.eyebrow': 'প্রকৃত আয়ুর্বেদ · বেদের যুগ থেকে',
     'hero.headline': 'প্রাচীন <em>জ্ঞান</em> এমন ত্বকের জন্য যা <em>নিজেই সুস্থ হয়।</em>',
-    'hero.lede': 'বৈদিক চিকিৎসা — প্রতিটি রোগীর জন্য আলাদাভাবে তৈরি, দোকানের তাক থেকে নয়। ডা. প্রবেশ সিং প্রতিটি শ্বেতী এবং গোপনীয় যৌন স্বাস্থ্যের কেস ব্যক্তিগতভাবে দেখেন এবং শুধু আপনার জন্য ওষুধ তৈরি করেন।',
+    'hero.lede': 'বৈদিক চিকিৎসা — প্রতিটি রোগীর জন্য আলাদাভাবে তৈরি, দোকানের তাক থেকে নয়। ডা. প্রবেশ রাওয়াত প্রতিটি শ্বেতী এবং গোপনীয় যৌন স্বাস্থ্যের কেস ব্যক্তিগতভাবে দেখেন এবং শুধু আপনার জন্য ওষুধ তৈরি করেন।',
     'hero.btnCall': 'ডা. প্রবেশকে এখন কল করুন',
     'hero.btnWhatsapp': 'হোয়াটসঅ্যাপ',
     'hero.trustYears': 'বছরের অভিজ্ঞতা',
@@ -163,7 +163,7 @@ const TRANSLATIONS = {
     'cta.whatsapp': 'વૉટ્સએપ',
 
     'footer.phoneLabel': 'ડૉક્ટર સાથે વાત કરો',
-    'footer.brand.tag': 'આયુર્વેદિક ઉપચાર · ડૉ. પ્રવેશ સિંહ',
+    'footer.brand.tag': 'આયુર્વેદિક ઉપચાર · ડૉ. પ્રવેશ રાવત',
     'footer.col.visit': 'ક્લિનિક પર આવો',
     'footer.col.treatments': 'ઉપચાર',
     'footer.col.clinic': 'ક્લિનિક',
@@ -174,7 +174,7 @@ const TRANSLATIONS = {
 
     'hero.eyebrow': 'અસલી આયુર્વેદ · વેદોના સમયથી',
     'hero.headline': 'પ્રાચીન <em>જ્ઞાન</em>, એવી ત્વચા માટે જે <em>પોતે જ સાજી થાય.</em>',
-    'hero.lede': 'વૈદિક દવાઓ — દરેક દર્દી માટે અલગથી તૈયાર, છાજલીમાંથી નહીં. ડૉ. પ્રવેશ સિંહ દરેક કોઢ અને ગુપ્ત જાતીય આરોગ્ય કેસને વ્યક્તિગત રીતે જુએ છે અને ફક્ત તમારા માટે દવા બનાવે છે.',
+    'hero.lede': 'વૈદિક દવાઓ — દરેક દર્દી માટે અલગથી તૈયાર, છાજલીમાંથી નહીં. ડૉ. પ્રવેશ રાવત દરેક કોઢ અને ગુપ્ત જાતીય આરોગ્ય કેસને વ્યક્તિગત રીતે જુએ છે અને ફક્ત તમારા માટે દવા બનાવે છે.',
     'hero.btnCall': 'ડૉ. પ્રવેશને હમણાં કૉલ કરો',
     'hero.btnWhatsapp': 'વૉટ્સએપ',
     'hero.trustYears': 'વર્ષોનો અનુભવ',
@@ -202,7 +202,7 @@ const TRANSLATIONS = {
     'cta.whatsapp': 'व्हॉट्सऍप',
 
     'footer.phoneLabel': 'डॉक्टरांशी बोला',
-    'footer.brand.tag': 'आयुर्वेदिक उपचार · डॉ. प्रवेश सिंह',
+    'footer.brand.tag': 'आयुर्वेदिक उपचार · डॉ. प्रवेश रावत',
     'footer.col.visit': 'क्लिनिकला भेट द्या',
     'footer.col.treatments': 'उपचार',
     'footer.col.clinic': 'क्लिनिक',
@@ -213,7 +213,7 @@ const TRANSLATIONS = {
 
     'hero.eyebrow': 'अस्सल आयुर्वेद · वेदांच्या काळापासून',
     'hero.headline': 'प्राचीन <em>ज्ञान</em>, अशा त्वचेसाठी जी <em>स्वतःच बरी होते.</em>',
-    'hero.lede': 'वैदिक औषधे — प्रत्येक रुग्णासाठी वेगळी तयार केलेली, दुकानातून नाही. डॉ. प्रवेश सिंह प्रत्येक पांढरे डाग आणि गुप्त लैंगिक आरोग्य प्रकरण वैयक्तिकरित्या पाहतात आणि फक्त तुमच्यासाठी औषध बनवतात.',
+    'hero.lede': 'वैदिक औषधे — प्रत्येक रुग्णासाठी वेगळी तयार केलेली, दुकानातून नाही. डॉ. प्रवेश रावत प्रत्येक पांढरे डाग आणि गुप्त लैंगिक आरोग्य प्रकरण वैयक्तिकरित्या पाहतात आणि फक्त तुमच्यासाठी औषध बनवतात.',
     'hero.btnCall': 'डॉ. प्रवेशला आत्ता कॉल करा',
     'hero.btnWhatsapp': 'व्हॉट्सऍप',
     'hero.trustYears': 'वर्षांचा अनुभव',
@@ -241,7 +241,7 @@ const TRANSLATIONS = {
     'cta.whatsapp': 'வாட்ஸ்அப்',
 
     'footer.phoneLabel': 'மருத்துவரிடம் பேசுங்கள்',
-    'footer.brand.tag': 'ஆயுர்வேத சிகிச்சை · டாக்டர் பிரவேஷ் சிங்',
+    'footer.brand.tag': 'ஆயுர்வேத சிகிச்சை · டாக்டர் பிரவேஷ் ராவத்',
     'footer.col.visit': 'கிளினிக்கிற்கு வாருங்கள்',
     'footer.col.treatments': 'சிகிச்சைகள்',
     'footer.col.clinic': 'கிளினிக்',
@@ -252,7 +252,7 @@ const TRANSLATIONS = {
 
     'hero.eyebrow': 'உண்மையான ஆயுர்வேதம் · வேதங்களின் காலத்திலிருந்து',
     'hero.headline': 'பழமையான <em>ஞானம்</em>, தன்னைத்தானே <em>குணப்படுத்தும்</em> தோலுக்கு.',
-    'hero.lede': 'வேத மருந்துகள் — ஒவ்வொரு நோயாளிக்கும் தனித்தனியாகத் தயாரிக்கப்படுபவை, அலமாரியிலிருந்து அல்ல. டாக்டர் பிரவேஷ் சிங் ஒவ்வொரு வெண்தோல் மற்றும் ரகசிய பாலியல் ஆரோக்கிய வழக்கையும் நேரடியாகப் பார்த்து உங்களுக்காக மட்டும் மருந்து தயாரிக்கிறார்.',
+    'hero.lede': 'வேத மருந்துகள் — ஒவ்வொரு நோயாளிக்கும் தனித்தனியாகத் தயாரிக்கப்படுபவை, அலமாரியிலிருந்து அல்ல. டாக்டர் பிரவேஷ் ராவத் ஒவ்வொரு வெண்தோல் மற்றும் ரகசிய பாலியல் ஆரோக்கிய வழக்கையும் நேரடியாகப் பார்த்து உங்களுக்காக மட்டும் மருந்து தயாரிக்கிறார்.',
     'hero.btnCall': 'டாக்டர் பிரவேஷ்வை இப்போது அழைக்கவும்',
     'hero.btnWhatsapp': 'வாட்ஸ்அப்',
     'hero.trustYears': 'ஆண்டுகள் அனுபவம்',
@@ -280,7 +280,7 @@ const TRANSLATIONS = {
     'cta.whatsapp': 'వాట్సాప్',
 
     'footer.phoneLabel': 'డాక్టర్‌తో మాట్లాడండి',
-    'footer.brand.tag': 'ఆయుర్వేద చికిత్స · డా. ప్రవేష్ సింగ్',
+    'footer.brand.tag': 'ఆయుర్వేద చికిత్స · డా. ప్రవేష్ రావత్',
     'footer.col.visit': 'క్లినిక్‌కి రండి',
     'footer.col.treatments': 'చికిత్సలు',
     'footer.col.clinic': 'క్లినిక్',
@@ -291,7 +291,7 @@ const TRANSLATIONS = {
 
     'hero.eyebrow': 'అసలైన ఆయుర్వేదం · వేదాల కాలం నుండి',
     'hero.headline': 'ప్రాచీన <em>జ్ఞానం</em>, తనను తాను <em>నయం చేసుకునే</em> చర్మం కోసం.',
-    'hero.lede': 'వేద ఔషధాలు — ప్రతి రోగికి విడిగా తయారు చేయబడినవి, షెల్ఫ్ నుండి కాదు. డా. ప్రవేష్ సింగ్ ప్రతి తెల్ల మచ్చల మరియు రహస్య లైంగిక ఆరోగ్య కేసును వ్యక్తిగతంగా పరిశీలించి మీ కోసం మాత్రమే మందులు తయారు చేస్తారు.',
+    'hero.lede': 'వేద ఔషధాలు — ప్రతి రోగికి విడిగా తయారు చేయబడినవి, షెల్ఫ్ నుండి కాదు. డా. ప్రవేష్ రావత్ ప్రతి తెల్ల మచ్చల మరియు రహస్య లైంగిక ఆరోగ్య కేసును వ్యక్తిగతంగా పరిశీలించి మీ కోసం మాత్రమే మందులు తయారు చేస్తారు.',
     'hero.btnCall': 'డా. ప్రవేష్కు ఇప్పుడే కాల్ చేయండి',
     'hero.btnWhatsapp': 'వాట్సాప్',
     'hero.trustYears': 'సంవత్సరాల అనుభవం',
@@ -319,7 +319,7 @@ const TRANSLATIONS = {
     'cta.whatsapp': 'ਵਟਸਐਪ',
 
     'footer.phoneLabel': 'ਡਾਕਟਰ ਨਾਲ ਗੱਲ ਕਰੋ',
-    'footer.brand.tag': 'ਆਯੁਰਵੈਦਿਕ ਇਲਾਜ · ਡਾ. ਪ੍ਰਵੇਸ਼ ਸਿੰਘ',
+    'footer.brand.tag': 'ਆਯੁਰਵੈਦਿਕ ਇਲਾਜ · ਡਾ. ਪ੍ਰਵੇਸ਼ ਰਾਵਤ',
     'footer.col.visit': 'ਕਲੀਨਿਕ ਆਓ',
     'footer.col.treatments': 'ਇਲਾਜ',
     'footer.col.clinic': 'ਕਲੀਨਿਕ',
@@ -330,7 +330,7 @@ const TRANSLATIONS = {
 
     'hero.eyebrow': 'ਅਸਲੀ ਆਯੁਰਵੇਦ · ਵੇਦਾਂ ਦੇ ਸਮੇਂ ਤੋਂ',
     'hero.headline': 'ਪ੍ਰਾਚੀਨ <em>ਗਿਆਨ</em>, ਅਜਿਹੀ ਚਮੜੀ ਲਈ ਜੋ <em>ਆਪਣੇ ਆਪ ਠੀਕ ਹੋਵੇ।</em>',
-    'hero.lede': 'ਵੈਦਿਕ ਦਵਾਈਆਂ — ਹਰ ਮਰੀਜ਼ ਲਈ ਵੱਖ ਤੌਰ ਤੇ ਤਿਆਰ, ਦੁਕਾਨ ਤੋਂ ਨਹੀਂ। ਡਾ. ਪ੍ਰਵੇਸ਼ ਸਿੰਘ ਹਰ ਚਿੱਟੇ ਦਾਗ਼ ਅਤੇ ਗੁਪਤ ਜਿਨਸੀ ਸਿਹਤ ਮਾਮਲੇ ਨੂੰ ਨਿੱਜੀ ਤੌਰ ਤੇ ਦੇਖਦੇ ਹਨ ਅਤੇ ਸਿਰਫ਼ ਤੁਹਾਡੇ ਲਈ ਦਵਾਈ ਬਣਾਉਂਦੇ ਹਨ।',
+    'hero.lede': 'ਵੈਦਿਕ ਦਵਾਈਆਂ — ਹਰ ਮਰੀਜ਼ ਲਈ ਵੱਖ ਤੌਰ ਤੇ ਤਿਆਰ, ਦੁਕਾਨ ਤੋਂ ਨਹੀਂ। ਡਾ. ਪ੍ਰਵੇਸ਼ ਰਾਵਤ ਹਰ ਚਿੱਟੇ ਦਾਗ਼ ਅਤੇ ਗੁਪਤ ਜਿਨਸੀ ਸਿਹਤ ਮਾਮਲੇ ਨੂੰ ਨਿੱਜੀ ਤੌਰ ਤੇ ਦੇਖਦੇ ਹਨ ਅਤੇ ਸਿਰਫ਼ ਤੁਹਾਡੇ ਲਈ ਦਵਾਈ ਬਣਾਉਂਦੇ ਹਨ।',
     'hero.btnCall': 'ਡਾ. ਪ੍ਰਵੇਸ਼ ਨੂੰ ਹੁਣੇ ਕਾਲ ਕਰੋ',
     'hero.btnWhatsapp': 'ਵਟਸਐਪ',
     'hero.trustYears': 'ਸਾਲਾਂ ਦਾ ਤਜਰਬਾ',
