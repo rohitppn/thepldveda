@@ -784,6 +784,28 @@ section { padding: var(--sp-9) 0; }
 .site-footer ul { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--sp-3); }
 .site-footer a:hover { color: var(--c-white); }
 .site-footer__address { font-size: 0.95rem; line-height: 1.7; max-width: 26ch; }
+.site-footer__social {
+  display: flex !important;
+  grid-template-columns: none !important;
+  flex-direction: row;
+  gap: var(--sp-4) !important;
+  margin-top: var(--sp-5) !important;
+}
+.site-footer__social li { display: inline-flex; }
+.site-footer__social a {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 38px; height: 38px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.08);
+  color: rgba(255,255,255,0.7);
+  transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease;
+}
+.site-footer__social a:hover {
+  background: var(--c-gold-soft, rgba(201,162,76,0.85));
+  color: var(--c-navy, #1a2c40);
+  transform: translateY(-2px);
+}
+.site-footer__social svg { display: block; }
 .site-footer__bottom {
   padding: var(--sp-5) 0;
   border-top: 1px solid rgba(255,255,255,0.1);
@@ -1580,4 +1602,35 @@ img { max-width: 100%; height: auto; }
   .eyebrow::before { width: 20px; }
   .section-head .eyebrow::after { width: 20px; }
 }
+
+/* ==========================================================================
+   Google Translate widget — hide every visible artefact it injects so the
+   custom language switcher remains the only UI. Without these rules Google
+   inserts a banner at the top, pushes the whole document down, and shows
+   tooltips on every translated word.
+   ========================================================================== */
+.goog-te-banner-frame.skiptranslate,
+.goog-te-banner-frame,
+.goog-te-gadget-icon,
+.goog-logo-link,
+.goog-te-gadget,
+.goog-te-balloon-frame,
+#goog-gt-tt,
+.goog-tooltip,
+.goog-tooltip:hover {
+  display: none !important;
+}
+body.translated-rtl,
+body.translated-ltr,
+body {
+  top: 0 !important;
+}
+.skiptranslate iframe { display: none !important; }
+.goog-text-highlight {
+  background-color: transparent !important;
+  box-shadow: none !important;
+  position: static !important;
+}
+#google_translate_element { display: none !important; }
+font[style] { background: transparent !important; box-shadow: none !important; }
 

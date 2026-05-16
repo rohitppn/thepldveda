@@ -31,7 +31,6 @@ const TRANSLATIONS = {
     'nav.home': 'Home',
     'nav.about': 'About',
     'nav.vitiligo': 'Vitiligo Treatment',
-    'nav.sexualHealth': 'Sexual Health',
     'nav.results': 'Results',
     'nav.testimonials': 'Testimonials',
     'nav.contact': 'Contact',
@@ -57,7 +56,7 @@ const TRANSLATIONS = {
 
     'hero.eyebrow': 'Authentic Ayurveda · Since the Vedas',
     'hero.headline': 'Ancient <em>wisdom</em> for skin that <em>heals itself.</em>',
-    'hero.lede': 'Vedic remedies, prepared individually — not from a shelf. Vaidhya Raj Ji personally reviews every case of vitiligo and confidential sexual health concerns to formulate medicine made for you alone.',
+    'hero.lede': 'Vedic remedies, prepared individually — not from a shelf. Vaidhya Raj Ji personally reviews every vitiligo case and formulates medicine made for you alone.',
     'hero.btnCall': 'Call Vaidhya Raj Ji now',
     'hero.btnWhatsapp': 'WhatsApp',
     'hero.trustYears': 'Years of practice',
@@ -70,7 +69,6 @@ const TRANSLATIONS = {
     'nav.home': 'मुख्य पृष्ठ',
     'nav.about': 'हमारे बारे में',
     'nav.vitiligo': 'सफ़ेद दाग का इलाज',
-    'nav.sexualHealth': 'यौन स्वास्थ्य',
     'nav.results': 'परिणाम',
     'nav.testimonials': 'मरीज़ों की राय',
     'nav.contact': 'संपर्क',
@@ -95,8 +93,8 @@ const TRANSLATIONS = {
     'footer.copy': '© 2026 दि ओल्ड वेद। सर्वाधिकार सुरक्षित।',
 
     'hero.eyebrow': 'प्रामाणिक आयुर्वेद · वेदों के समय से',
-    'hero.headline': 'प्राचीन <em>ज्ञान</em>, ऐसी त्वचा के लिए जो <em>स्वयं ठीक हो।</em>',
-    'hero.lede': 'वैदिक दवाइयाँ — हर मरीज़ के लिए अलग से तैयार, बाज़ार से नहीं। वैद्य राज जी हर सफ़ेद दाग और यौन स्वास्थ्य के मामले को व्यक्तिगत रूप से देखते हैं और सिर्फ़ आपके लिए दवा बनाते हैं।',
+    'hero.headline': 'सफेद दाग का <em>सफल इलाज</em>',
+    'hero.lede': 'वैदिक दवाइयाँ — हर मरीज़ के लिए अलग से तैयार, बाज़ार से नहीं। वैद्य राज जी हर सफ़ेद दाग के मामले को व्यक्तिगत रूप से देखते हैं और सिर्फ़ आपके लिए दवा बनाते हैं।',
     'hero.btnCall': 'वैद्य राज जी को अभी कॉल करें',
     'hero.btnWhatsapp': 'व्हाट्सऐप',
     'hero.trustYears': 'वर्षों का अनुभव',
@@ -109,7 +107,6 @@ const TRANSLATIONS = {
     'nav.home': 'হোম',
     'nav.about': 'পরিচিতি',
     'nav.vitiligo': 'শ্বেতী চিকিৎসা',
-    'nav.sexualHealth': 'যৌন স্বাস্থ্য',
     'nav.results': 'ফলাফল',
     'nav.testimonials': 'রোগীর কথা',
     'nav.contact': 'যোগাযোগ',
@@ -135,7 +132,7 @@ const TRANSLATIONS = {
 
     'hero.eyebrow': 'প্রকৃত আয়ুর্বেদ · বেদের যুগ থেকে',
     'hero.headline': 'প্রাচীন <em>জ্ঞান</em> এমন ত্বকের জন্য যা <em>নিজেই সুস্থ হয়।</em>',
-    'hero.lede': 'বৈদিক চিকিৎসা — প্রতিটি রোগীর জন্য আলাদাভাবে তৈরি, দোকানের তাক থেকে নয়। বৈদ্য রাজ জী প্রতিটি শ্বেতী এবং গোপনীয় যৌন স্বাস্থ্যের কেস ব্যক্তিগতভাবে দেখেন এবং শুধু আপনার জন্য ওষুধ তৈরি করেন।',
+    'hero.lede': 'বৈদিক চিকিৎসা — প্রতিটি রোগীর জন্য আলাদাভাবে তৈরি, দোকানের তাক থেকে নয়। বৈদ্য রাজ জী প্রতিটি শ্বেতী কেস ব্যক্তিগতভাবে দেখেন এবং শুধু আপনার জন্য ওষুধ তৈরি করেন।',
     'hero.btnCall': 'বৈদ্য রাজ জী-কে এখন কল করুন',
     'hero.btnWhatsapp': 'হোয়াটসঅ্যাপ',
     'hero.trustYears': 'বছরের অভিজ্ঞতা',
@@ -148,7 +145,6 @@ const TRANSLATIONS = {
     'nav.home': 'હોમ',
     'nav.about': 'અમારા વિશે',
     'nav.vitiligo': 'કોઢનો ઈલાજ',
-    'nav.sexualHealth': 'જાતીય આરોગ્ય',
     'nav.results': 'પરિણામો',
     'nav.testimonials': 'દર્દીઓના અભિપ્રાય',
     'nav.contact': 'સંપર્ક',
@@ -174,7 +170,7 @@ const TRANSLATIONS = {
 
     'hero.eyebrow': 'અસલી આયુર્વેદ · વેદોના સમયથી',
     'hero.headline': 'પ્રાચીન <em>જ્ઞાન</em>, એવી ત્વચા માટે જે <em>પોતે જ સાજી થાય.</em>',
-    'hero.lede': 'વૈદિક દવાઓ — દરેક દર્દી માટે અલગથી તૈયાર, છાજલીમાંથી નહીં. વૈદ્ય રાજ જી દરેક કોઢ અને ગુપ્ત જાતીય આરોગ્ય કેસને વ્યક્તિગત રીતે જુએ છે અને ફક્ત તમારા માટે દવા બનાવે છે.',
+    'hero.lede': 'વૈદિક દવાઓ — દરેક દર્દી માટે અલગથી તૈયાર, છાજલીમાંથી નહીં. વૈદ્ય રાજ જી દરેક કોઢ કેસને વ્યક્તિગત રીતે જુએ છે અને ફક્ત તમારા માટે દવા બનાવે છે.',
     'hero.btnCall': 'વૈદ્ય રાજ જી-ને હમણાં કૉલ કરો',
     'hero.btnWhatsapp': 'વૉટ્સએપ',
     'hero.trustYears': 'વર્ષોનો અનુભવ',
@@ -187,7 +183,6 @@ const TRANSLATIONS = {
     'nav.home': 'मुख्यपृष्ठ',
     'nav.about': 'आमच्याविषयी',
     'nav.vitiligo': 'पांढरे डाग उपचार',
-    'nav.sexualHealth': 'लैंगिक आरोग्य',
     'nav.results': 'परिणाम',
     'nav.testimonials': 'रुग्णांचे मत',
     'nav.contact': 'संपर्क',
@@ -213,7 +208,7 @@ const TRANSLATIONS = {
 
     'hero.eyebrow': 'अस्सल आयुर्वेद · वेदांच्या काळापासून',
     'hero.headline': 'प्राचीन <em>ज्ञान</em>, अशा त्वचेसाठी जी <em>स्वतःच बरी होते.</em>',
-    'hero.lede': 'वैदिक औषधे — प्रत्येक रुग्णासाठी वेगळी तयार केलेली, दुकानातून नाही. वैद्य राज जी प्रत्येक पांढरे डाग आणि गुप्त लैंगिक आरोग्य प्रकरण वैयक्तिकरित्या पाहतात आणि फक्त तुमच्यासाठी औषध बनवतात.',
+    'hero.lede': 'वैदिक औषधे — प्रत्येक रुग्णासाठी वेगळी तयार केलेली, दुकानातून नाही. वैद्य राज जी प्रत्येक पांढरे डाग प्रकरण वैयक्तिकरित्या पाहतात आणि फक्त तुमच्यासाठी औषध बनवतात.',
     'hero.btnCall': 'वैद्य राज जी ला आत्ता कॉल करा',
     'hero.btnWhatsapp': 'व्हॉट्सऍप',
     'hero.trustYears': 'वर्षांचा अनुभव',
@@ -226,7 +221,6 @@ const TRANSLATIONS = {
     'nav.home': 'முகப்பு',
     'nav.about': 'எங்களைப் பற்றி',
     'nav.vitiligo': 'வெண்தோல் சிகிச்சை',
-    'nav.sexualHealth': 'பாலியல் ஆரோக்கியம்',
     'nav.results': 'முடிவுகள்',
     'nav.testimonials': 'நோயாளிகளின் கருத்து',
     'nav.contact': 'தொடர்பு',
@@ -252,7 +246,7 @@ const TRANSLATIONS = {
 
     'hero.eyebrow': 'உண்மையான ஆயுர்வேதம் · வேதங்களின் காலத்திலிருந்து',
     'hero.headline': 'பழமையான <em>ஞானம்</em>, தன்னைத்தானே <em>குணப்படுத்தும்</em> தோலுக்கு.',
-    'hero.lede': 'வேத மருந்துகள் — ஒவ்வொரு நோயாளிக்கும் தனித்தனியாகத் தயாரிக்கப்படுபவை, அலமாரியிலிருந்து அல்ல. வைத்தியர் ராஜ் ஜி ஒவ்வொரு வெண்தோல் மற்றும் ரகசிய பாலியல் ஆரோக்கிய வழக்கையும் நேரடியாகப் பார்த்து உங்களுக்காக மட்டும் மருந்து தயாரிக்கிறார்.',
+    'hero.lede': 'வேத மருந்துகள் — ஒவ்வொரு நோயாளிக்கும் தனித்தனியாகத் தயாரிக்கப்படுபவை, அலமாரியிலிருந்து அல்ல. வைத்தியர் ராஜ் ஜி ஒவ்வொரு வெண்தோல் வழக்கையும் நேரடியாகப் பார்த்து உங்களுக்காக மட்டும் மருந்து தயாரிக்கிறார்.',
     'hero.btnCall': 'வைத்தியர் ராஜ் ஜி-யை இப்போது அழைக்கவும்',
     'hero.btnWhatsapp': 'வாட்ஸ்அப்',
     'hero.trustYears': 'ஆண்டுகள் அனுபவம்',
@@ -265,7 +259,6 @@ const TRANSLATIONS = {
     'nav.home': 'హోమ్',
     'nav.about': 'మా గురించి',
     'nav.vitiligo': 'తెల్ల మచ్చల చికిత్స',
-    'nav.sexualHealth': 'లైంగిక ఆరోగ్యం',
     'nav.results': 'ఫలితాలు',
     'nav.testimonials': 'రోగుల అభిప్రాయాలు',
     'nav.contact': 'సంప్రదించండి',
@@ -291,7 +284,7 @@ const TRANSLATIONS = {
 
     'hero.eyebrow': 'అసలైన ఆయుర్వేదం · వేదాల కాలం నుండి',
     'hero.headline': 'ప్రాచీన <em>జ్ఞానం</em>, తనను తాను <em>నయం చేసుకునే</em> చర్మం కోసం.',
-    'hero.lede': 'వేద ఔషధాలు — ప్రతి రోగికి విడిగా తయారు చేయబడినవి, షెల్ఫ్ నుండి కాదు. వైద్య రాజ్ జీ ప్రతి తెల్ల మచ్చల మరియు రహస్య లైంగిక ఆరోగ్య కేసును వ్యక్తిగతంగా పరిశీలించి మీ కోసం మాత్రమే మందులు తయారు చేస్తారు.',
+    'hero.lede': 'వేద ఔషధాలు — ప్రతి రోగికి విడిగా తయారు చేయబడినవి, షెల్ఫ్ నుండి కాదు. వైద్య రాజ్ జీ ప్రతి తెల్ల మచ్చల కేసును వ్యక్తిగతంగా పరిశీలించి మీ కోసం మాత్రమే మందులు తయారు చేస్తారు.',
     'hero.btnCall': 'వైద్య రాజ్ జీ కు ఇప్పుడే కాల్ చేయండి',
     'hero.btnWhatsapp': 'వాట్సాప్',
     'hero.trustYears': 'సంవత్సరాల అనుభవం',
@@ -304,7 +297,6 @@ const TRANSLATIONS = {
     'nav.home': 'ਹੋਮ',
     'nav.about': 'ਸਾਡੇ ਬਾਰੇ',
     'nav.vitiligo': 'ਚਿੱਟੇ ਦਾਗ਼ ਦਾ ਇਲਾਜ',
-    'nav.sexualHealth': 'ਜਿਨਸੀ ਸਿਹਤ',
     'nav.results': 'ਨਤੀਜੇ',
     'nav.testimonials': 'ਮਰੀਜ਼ਾਂ ਦੀ ਰਾਏ',
     'nav.contact': 'ਸੰਪਰਕ',
@@ -330,7 +322,7 @@ const TRANSLATIONS = {
 
     'hero.eyebrow': 'ਅਸਲੀ ਆਯੁਰਵੇਦ · ਵੇਦਾਂ ਦੇ ਸਮੇਂ ਤੋਂ',
     'hero.headline': 'ਪ੍ਰਾਚੀਨ <em>ਗਿਆਨ</em>, ਅਜਿਹੀ ਚਮੜੀ ਲਈ ਜੋ <em>ਆਪਣੇ ਆਪ ਠੀਕ ਹੋਵੇ।</em>',
-    'hero.lede': 'ਵੈਦਿਕ ਦਵਾਈਆਂ — ਹਰ ਮਰੀਜ਼ ਲਈ ਵੱਖ ਤੌਰ ਤੇ ਤਿਆਰ, ਦੁਕਾਨ ਤੋਂ ਨਹੀਂ। ਵੈਦ ਰਾਜ ਜੀ ਹਰ ਚਿੱਟੇ ਦਾਗ਼ ਅਤੇ ਗੁਪਤ ਜਿਨਸੀ ਸਿਹਤ ਮਾਮਲੇ ਨੂੰ ਨਿੱਜੀ ਤੌਰ ਤੇ ਦੇਖਦੇ ਹਨ ਅਤੇ ਸਿਰਫ਼ ਤੁਹਾਡੇ ਲਈ ਦਵਾਈ ਬਣਾਉਂਦੇ ਹਨ।',
+    'hero.lede': 'ਵੈਦਿਕ ਦਵਾਈਆਂ — ਹਰ ਮਰੀਜ਼ ਲਈ ਵੱਖ ਤੌਰ ਤੇ ਤਿਆਰ, ਦੁਕਾਨ ਤੋਂ ਨਹੀਂ। ਵੈਦ ਰਾਜ ਜੀ ਹਰ ਚਿੱਟੇ ਦਾਗ਼ ਮਾਮਲੇ ਨੂੰ ਨਿੱਜੀ ਤੌਰ ਤੇ ਦੇਖਦੇ ਹਨ ਅਤੇ ਸਿਰਫ਼ ਤੁਹਾਡੇ ਲਈ ਦਵਾਈ ਬਣਾਉਂਦੇ ਹਨ।',
     'hero.btnCall': 'ਵੈਦ ਰਾਜ ਜੀ ਨੂੰ ਹੁਣੇ ਕਾਲ ਕਰੋ',
     'hero.btnWhatsapp': 'ਵਟਸਐਪ',
     'hero.trustYears': 'ਸਾਲਾਂ ਦਾ ਤਜਰਬਾ',
@@ -463,6 +455,68 @@ function applyTranslations(lang) {
   });
 }
 
+// === GOOGLE TRANSLATE INTEGRATION ===
+// The custom dictionary above translates ~25 brand UI strings.
+// Google Translate handles full-page translation of body content
+// (paragraphs, FAQs, testimonials, etc.) — triggered by the googtrans cookie.
+
+function setGoogleTranslateCookie(lang) {
+  const host = window.location.hostname;
+  // Clear any existing googtrans cookies on every variant of host/path
+  const expire = '; expires=Thu, 01 Jan 1970 00:00:00 GMT';
+  document.cookie = 'googtrans=' + expire + '; path=/';
+  document.cookie = 'googtrans=' + expire + '; path=/; domain=' + host;
+  document.cookie = 'googtrans=' + expire + '; path=/; domain=.' + host;
+
+  if (lang && lang !== 'en') {
+    const value = '/en/' + lang;
+    document.cookie = 'googtrans=' + value + '; path=/';
+    if (host && host !== 'localhost' && !/^\d+\.\d+\.\d+\.\d+$/.test(host)) {
+      document.cookie = 'googtrans=' + value + '; path=/; domain=.' + host;
+    }
+  }
+}
+
+function injectGoogleTranslate() {
+  if (document.getElementById('google_translate_element')) return;
+
+  const div = document.createElement('div');
+  div.id = 'google_translate_element';
+  div.className = 'notranslate';
+  div.style.display = 'none';
+  document.body.appendChild(div);
+
+  window.googleTranslateElementInit = function () {
+    new google.translate.TranslateElement({
+      pageLanguage: 'en',
+      includedLanguages: 'en,hi,bn,gu,mr,ta,te,pa',
+      autoDisplay: false
+    }, 'google_translate_element');
+  };
+
+  const script = document.createElement('script');
+  script.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+  script.async = true;
+  document.head.appendChild(script);
+}
+
+function markNoTranslate() {
+  // Phone numbers, brand name, and the Vaidhya's name should never be auto-translated.
+  const selectors = [
+    'a[href^="tel:"]',
+    '.brand__name',
+    '.site-footer__brand-name',
+    '.site-footer__phone',
+    '.cta-band__phone',
+    '.contact-phone',
+    '.doctor__photo-caption'
+  ];
+  document.querySelectorAll(selectors.join(',')).forEach(el => {
+    el.classList.add('notranslate');
+    el.setAttribute('translate', 'no');
+  });
+}
+
 function buildLangMenu() {
   document.querySelectorAll('.lang-menu').forEach(menu => {
     if (menu.children.length) return;
@@ -497,9 +551,13 @@ function setupSwitcher() {
       if (!btn) return;
       const lang = btn.dataset.lang;
       localStorage.setItem('oldveda.lang', lang);
-      applyTranslations(lang);
+      // Set the Google Translate cookie and reload — GT reads the cookie
+      // on page load and translates the full body. Dictionary applies on
+      // top (after reload) for the branded UI strings.
+      setGoogleTranslateCookie(lang);
       sw.classList.remove('open');
       trigger.setAttribute('aria-expanded', 'false');
+      window.location.reload();
     });
   });
 
@@ -516,6 +574,8 @@ function setupSwitcher() {
 
 (async function initI18n() {
   setupSwitcher();
+  markNoTranslate();
+
   // Apply browser/saved language synchronously first to avoid flash
   const saved = localStorage.getItem('oldveda.lang');
   const browser = (navigator.language || '').toLowerCase();
@@ -524,9 +584,25 @@ function setupSwitcher() {
   else for (const code of SUPPORTED) if (browser.startsWith(code)) { initial = code; break; }
   applyTranslations(initial);
 
+  // Make sure the googtrans cookie matches the saved language so Google
+  // Translate widget picks up the correct target on every page load.
+  setGoogleTranslateCookie(initial);
+  injectGoogleTranslate();
+
   // If we ended up at English but no saved choice, try geolocation in background
   if (!saved && initial === 'en') {
     const detected = await detectLanguage();
-    if (detected !== 'en') applyTranslations(detected);
+    if (detected !== 'en') {
+      applyTranslations(detected);
+      // Persist the detection and trigger a one-time reload so Google
+      // Translate kicks in for the full body. Use sessionStorage flag
+      // to prevent any reload loop.
+      localStorage.setItem('oldveda.lang', detected);
+      setGoogleTranslateCookie(detected);
+      if (!sessionStorage.getItem('oldveda.geoReloaded')) {
+        sessionStorage.setItem('oldveda.geoReloaded', '1');
+        window.location.reload();
+      }
+    }
   }
 })();
